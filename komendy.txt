@@ -1,2 +1,3 @@
-npm install -g html-validate
-html-validate FILENAME..
+1)html-validate "*.html"
+
+2)node_modules/.bin/html-validate start "*.html"

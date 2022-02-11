@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AnnWaw95/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.27.7"
+  },
+  "dependencies": {
+    "html-validate": "^6.3.1"
   }
 }
